@@ -1,0 +1,26 @@
+p{
+    border: 10px solid black;
+    width: 20%;
+    display: inline-block;  
+    padding: 30px;
+    border-radius: 40px;
+    margin: 30px;
+    text-align: justify;
+    font-family: comic sans MS;
+    color: black;
+    box-shadow: 0px 0px 29px black;
+
+}
+
+.c1{
+    background: linear-gradient(90deg,orange);
+
+}
+
+#id1{
+    background: linear-gradient(65deg,brown);
+}
+
+.c2{
+    background: linear-gradient(45deg,green);
+}
